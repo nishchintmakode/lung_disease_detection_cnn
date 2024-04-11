@@ -32,8 +32,3 @@ The National Institutes of Health (NIH) chest X-ray image dataset, available on 
 
 ## Conclusion
 The implementation of deep learning techniques, particularly CNNs, facilitates the automated diagnosis of lung diseases from chest X-ray images. By leveraging state-of-the-art technologies and datasets, this project aims to assist medical practitioners and experts in accurately identifying and managing lung conditions, ultimately improving patient outcomes.
-
-For any inquiries or contributions, please contact [your_email@example.com](mailto:your_email@example.com).
-
----
-Feel free to customize this README to suit your project's specific details and requirements.
